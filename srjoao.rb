@@ -8,7 +8,7 @@
 #perguntar o nome e o valor desse produto
 #o desconto de x% será dado no valor final da compra
 
-system 'clear'
+system 'clear' # limpar a tela
 
 soma_prods = 0
 
